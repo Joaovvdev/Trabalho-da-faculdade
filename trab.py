@@ -78,7 +78,7 @@ if __name__ == "__main__":
     ]
 
     CERTIFICADOS = {
-        "Python Básico": "Certificado de Conclusão - Python Básico"
+        "Python Básico": "Certificado de ConclusãoPython Básico"
     }
 
     main()
